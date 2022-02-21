@@ -89,6 +89,9 @@
           </ul>
         </li>
 	{% endif %}
+	      
+	{% comment %} Added setup to navbar {% endcomment %}
+        <li><a href="{{ relative_root_path }}{% link SETUP.md %}">Setup</a></li>      
 
 	{% comment %} Always show license. {% endcomment %}
         <li><a href="{{ relative_root_path }}{% link LICENSE.md %}">License</a></li>
