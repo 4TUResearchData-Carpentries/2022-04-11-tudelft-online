@@ -16,7 +16,7 @@ please preview your site before committing, and make sure to run
 
 
 
-<h2 id="setup">Setup</h2>
+//<h2 id="setup">Setup</h2>
 {% endcomment %}
 
 * TOC
